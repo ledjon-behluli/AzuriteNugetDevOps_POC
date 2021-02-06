@@ -9,11 +9,11 @@
     <Authors>Ledjon Behluli</Authors>
     <Company>Ledjon Behluli</Company>
     <Copyright>Ledjon Behluli®</Copyright>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <Version>1.0.2</Version>
     <IsPackable>true</IsPackable>
-    <PackageReleaseNotes>Second Release.</PackageReleaseNotes>
+    <PackageReleaseNotes>Third Release.</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
